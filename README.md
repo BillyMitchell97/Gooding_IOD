@@ -21,7 +21,7 @@ Original Gooding angles-only initial orbit determination [1-4]
 [ ] Create working python version of gooding_runtime
 
 references:<br>
-[1] R. H. Gooding, “On Universal Elements, and Conversion Procedures to and from Position and Velocity”, _Celestial Mechanics_ and Dynamical Astronomy **44** (1988)
-[2] R. H. Gooding, “A Procedure for the Solution of Lambert’s Orbital Boundary-Value Problem”, _Celestial Mechanics and Dynamical Astronomy_ **48** (1990)
-[3] R. H. Gooding, “A New Procedure for Orbit Determination Based on Three Lines of Sight (Angles Only)”, _Defense Research Agency_, Technical Report **93004** (1993)
-[4] R. H. Gooding, “A New Procedure for the Solution of the Classical Problem of Minimal Orbit Determination from Three Lines of Sight”, _Celestial Mechanics and Dynamical Astronomy_ **66** (1997)
+[1] R. H. Gooding, “On Universal Elements, and Conversion Procedures to and from Position and Velocity”, _Celestial Mechanics_ and Dynamical Astronomy **44** (1988)<br>
+[2] R. H. Gooding, “A Procedure for the Solution of Lambert’s Orbital Boundary-Value Problem”, _Celestial Mechanics and Dynamical Astronomy_ **48** (1990)<br>
+[3] R. H. Gooding, “A New Procedure for Orbit Determination Based on Three Lines of Sight (Angles Only)”, _Defense Research Agency_, Technical Report **93004** (1993)<br>
+[4] R. H. Gooding, “A New Procedure for the Solution of the Classical Problem of Minimal Orbit Determination from Three Lines of Sight”, _Celestial Mechanics and Dynamical Astronomy_ **66** (1997)<br>
