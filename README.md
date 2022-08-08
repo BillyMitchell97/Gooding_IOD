@@ -13,7 +13,7 @@ Original Gooding angles-only initial orbit determination [1-4]
 # Notes on code:
 - Originally written to input center of force -> observing site vector and the observed direction affine unit vector.
 - Also requires time between observations as inputs
-- Outputs the range estimates for observation 1 and 2
+- Outputs the range estimates for observation 1 and 3
 - inputs and outputs are unit-agnostic
 
 
