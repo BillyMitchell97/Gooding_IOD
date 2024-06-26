@@ -1,5 +1,5 @@
 # Gooding_IOD
-Original Gooding angles-only initial orbit determination [1-4]
+Original Gooding angles-only initial orbit determination [1-4].
 **If you have any interest in using this code for research or industry purposes please reach out at williammitchell5818@gmail.com**
 
 # Fortran Files:
